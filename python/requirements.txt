@@ -1,0 +1,5 @@
+numpy==1.25.0
+scipy==1.11.1
+pydantic==2.9.0
+scikit-image
+matplotlib

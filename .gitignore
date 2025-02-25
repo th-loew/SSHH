@@ -1,1 +1,8 @@
-.idea
+.idea/
+**/__pycache__/
+data*/
+
+MA*.pdf
+.env
+results.log
+.coverage

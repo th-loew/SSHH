@@ -1,0 +1,5 @@
+pylint
+mypy
+coverage
+pytest
+jupyter  # for ./check-todos.sh
